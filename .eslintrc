@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+  "rules": {
+  
+  },
+  "globals": {
+    "angular": true
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  }
+}
